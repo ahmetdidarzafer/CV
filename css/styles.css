@@ -23,19 +23,19 @@ h3{
 }
 .name{
   border:0;
-	background:none;
-	display: block;
-	/*margin: 20px auto;*/
-	text-align:center ;
-	border-width:2px;
+  background:none;
+  display: block;
+  /*margin: 20px auto;*/
+  text-align:center ;
+  border-width:2px;
   border-color: #47B5FF;
   border-style: solid;
-	padding-left:5px;
-	width: 100px;
-	outline: none;
-	color :black;
-	border-radius:24px;
-	transition: 0.25s;
+  padding-left:5px;
+  width: 100px;
+  outline: none;
+  color :black;
+  border-radius:24px;
+  transition: 0.25s;
 }
 .name:focus{
   width: 150px;
@@ -43,19 +43,19 @@ h3{
 }
 .mail{
   border:0;
-	background:none;
-	display: block;
-	/*margin: 20px auto;*/
-	text-align:center ;
-	border-width:2px;
+  background:none;
+  display: block;
+  /*margin: 20px auto;*/
+  text-align:center ;
+  border-width:2px;
   border-color: #47B5FF;
   border-style: solid;
-	padding-left:5px;
-	width: 100px;
-	outline: none;
-	color :black;
-	border-radius:24px;
-	transition: 0.25s;
+  padding-left:5px;
+  width: 100px;
+  outline: none;
+  color :black;
+  border-radius:24px;
+  transition: 0.25s;
 }
 .mail:focus{
   width: 150px;
@@ -63,19 +63,19 @@ h3{
 }
 .mesaj{
   border:0;
-	background:none;
-	display: block;
-	/*margin: 20px auto;*/
-	text-align: left;
-	border-width:2px;
+  background:none;
+  display: block;
+  /*margin: 20px auto;*/
+  text-align: left;
+  border-width:2px;
   border-color: #47B5FF;
   border-style: solid;
-	padding-left:5px;
-	width: 200px;
-	outline: none;
-	color :black;
-	border-radius:24px;
-	transition: 0.25s;
+  padding-left:5px;
+  width: 200px;
+  outline: none;
+  color :black;
+  border-radius:24px;
+  transition: 0.25s;
 }
 .mesaj:focus{
   border-color: #1363DF;
